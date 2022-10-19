@@ -15,6 +15,6 @@ body  {
 
 /*For Navigation*/
 
- a {
-    text-decoration: none;
+ ul.main-nav {
+    list-style: none;
 }
